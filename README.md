@@ -32,5 +32,5 @@ A full-stack e-commerce application built using the **MERN stack** (MongoDB, Exp
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/prashantkumar7541/eco.git
+   git clone https://github.com/prashantkumar7541/Ecommerce-Website.git
    cd eco
